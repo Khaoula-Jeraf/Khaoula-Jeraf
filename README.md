@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khaoula Jeraf 👋</h1>
 
 <p align="center">
-Business-Oriented Data Analyst | Power BI Specialist | Turning Complexity into Clarity
+Business-Oriented Data Analyst | Power BI Specialist | Data Storyteller 
 </p>
 
 ---
